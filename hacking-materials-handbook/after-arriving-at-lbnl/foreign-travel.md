@@ -1,0 +1,3 @@
+# Foreign travel
+
+In many respects, LBL is similar to academic institutions. However, when it comes to foreign travel (non-vacation), it is quite different. There are very strict procedures if you wish to work on projects / conduct professional activities while not in the U.S., whether that is for an international conference or hoping to continue working remotely while in a foreign country. If you are planning on traveling to a foreign country for anything other than vacation, please schedule a meeting with Anubhav as soon as you can about it and we can discuss. Note that the issue of foreign travel has come up several times in the past and has led to quite major problems when not handled correctly.
