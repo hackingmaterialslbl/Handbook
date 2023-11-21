@@ -6,7 +6,6 @@
   * [Before you arrive](hacking-materials-handbook/before-you-arrive.md)
   * [After arriving at LBNL](hacking-materials-handbook/after-arriving-at-lbnl/README.md)
     * [Getting set up to work](hacking-materials-handbook/after-arriving-at-lbnl/getting-set-up-to-work.md)
-    * [Getting situated in your office](hacking-materials-handbook/after-arriving-at-lbnl/getting-situated-in-your-office.md)
     * [Food and coffee](hacking-materials-handbook/after-arriving-at-lbnl/food-and-coffee.md)
     * [Mail and fax](hacking-materials-handbook/after-arriving-at-lbnl/mail-and-fax.md)
     * [Equipment and conference rooms](hacking-materials-handbook/after-arriving-at-lbnl/equipment-and-conference-rooms.md)
