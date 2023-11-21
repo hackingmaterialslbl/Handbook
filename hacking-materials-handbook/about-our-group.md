@@ -8,4 +8,10 @@ The size of our research group fluctuates, but is usually around 10 people, maki
 
 Many new discoveries remain to be uncovered in the field of materials design and in our relatively new subfield of materials informatics. Your contributions are urgently needed to make this new  vision a reality - welcome!
 
+
+
+<figure><img src="../.gitbook/assets/group1.jpeg" alt=""><figcaption><p>HackingMaterials group in 2023</p></figcaption></figure>
+
+
+
 <figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption><p>View of the Bay from Building 67 @ LBNL</p></figcaption></figure>
