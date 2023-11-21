@@ -1,5 +1,5 @@
 # Vacation days
 
-You will receive a set number of vacation / personal time off (PTO) days that will be outlined in your hiring package. For union postdocs, the union has currently negotiated 24 PTO days per year (in addition to standard lab holidays) along with other benefits.
+You will receive a set number of vacation / personal time off (PTO) days that will be outlined in your hiring package. You should coordinate the specific days of vacation and personal time off with Anubhav, especially for an extended absence.
 
-You should coordinate the specific days of vacation and personal time off with Anubhav, especially for an extended absence
+Note that accurate reporting of your vacation days is important for not only for legal reasons but because it has real implications on our group's research budget. When postdocs and graduate students report vacation days, those days are not charged to our group's research budget – allowing the research budget that is saved to be spent on other things.
