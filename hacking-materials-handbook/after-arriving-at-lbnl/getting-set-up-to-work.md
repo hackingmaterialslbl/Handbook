@@ -16,6 +16,7 @@ Here is a checklist of things you should complete within your first week:
 * **Request after-hours access.** By default, may not have off-hours site access to building 33, i.e., on weekends, holidays, and from \~6pm to 7am on weekdays. To obtain off-hours site access, email the ESDR admin (esdradmin@lbl.gov), tell them you need after-hours building access, and cc Anubhav.
 * **Ask to read the proposal that funds your work.** This will help explain the impact of your project, the long-term plans and goals, and how your project fits in with other efforts.&#x20;
 * **Have your picture taken for the group website.** Coordinate a time with Anubhav, who will take the picture.&#x20;
+* **Familiarize yourself with the lab's A-Z site.** The site is [here](https://a-z.lbl.gov) and has answers to most procedure questions; for example start typing "conference room" to find out about conference rooms.
 * **Set up your office.** &#x20;
 * **Say “hi” to your neighbors!** Working here will be more pleasant if you get to know some of the people around you. One good time to introduce yourself is when you see people eating lunch in the kitchen area. We also try to coordinate occasional mixed group lunches between the people in the group.
 * **Send Anubhav an email confirming you have completed everything on this list.**
