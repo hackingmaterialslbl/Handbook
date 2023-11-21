@@ -5,6 +5,7 @@
   * [About our group](hacking-materials-handbook/about-our-group.md)
   * [Before you arrive](hacking-materials-handbook/before-you-arrive.md)
   * [After arriving at LBNL](hacking-materials-handbook/after-arriving-at-lbnl.md)
+  * [Group meetings](hacking-materials-handbook/group-meetings.md)
   * [Facilities - Food, Conference Rooms](hacking-materials-handbook/facilities-food-conference-rooms.md)
   * [LETS timecard](hacking-materials-handbook/lets-timecard.md)
   * [Vacation days, sick days, foreign travel](hacking-materials-handbook/vacation-days-sick-days-foreign-travel.md)
