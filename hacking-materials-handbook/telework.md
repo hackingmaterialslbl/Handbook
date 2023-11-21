@@ -1,10 +1,34 @@
 # Telework
 
-It can happen that you are required to work from home for a long period without a possibility to visit the main site. You probably can move for that period somewhere else inside the US (international telework is highly likely not an option, talk to Anubhav first). If it happens, here is a list of things that may be useful for you:
+## Policy
 
-* Check time zones - all your work still happens on Berkeley time - and update your LBNL google calendar with time when you may be unavailable.
-* Make sure that you have a comfortable working place at home - ergonomics is very important as you will move less than before. If you need something from your office you can check if you can take it home with you.
-* Make sure that you have a cozy working space - you should feel nice there and want to come back every day. Hygge concepts may help.
-* Try to organize a working schedule with time tracking apps like Pomodoro or Toggle and virtual task boards like Trello or Miro.
-* Maybe it is time to start using the Bullet Journal Method?&#x20;
-* Podcasts and blogs can give you some tips on work from home.
+In general, Anubhav is much more interested in your research output than where you work. Indeed, one of the advantages of choosing computational science as a career is that it can afford you some more flexibility location-wise than other jobs. Nevertheless, when it comes to working with others, in-person interaction is generally much more productive than Zoom calls. Furthermore, it is much easier to get to know your colleagues in person than it is to do so while working from home.
+
+Some times when you are **required** to be at the lab, unless otherwise arranged, are:
+
+* At our biweekly 1:1 meetings
+* At our biweekly "Teach Me Anything" group meetings
+* For our biannual "Group Days"
+* For project-specific meetings that occur in person
+
+## Telework equipment
+
+Note that it may be possible to purchase some telework equipment with lab funds. Contact Anubhav if interested. There are also some links at the [LBL telework page](https://telework.lbl.gov).
+
+## Other places to work
+
+If you just need a break from your desk, some places to work apart from your office include:&#x20;
+
+* Building 33's patio connected to 33-240B conference room
+* Building 33's 3rd floor conference room, which has spectacular views of the bay
+* The Molecular Foundry 3rd floor lounge&#x20;
+* The LBNL coffee shop and library reading room (downstairs from the cafeteria cash register area) - _note: this is currently closed due to the cafeteria renovation_
+* The UC Botanical Garden and Redwood Grove (free admission for LBNL)
+* UC Berkeley campus, including the Free Speech Movement cafe which has rotating newspaper headlines
+* Downtown and campus-area coffee shops&#x20;
+
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>The Molecular Foundry 3rd floor lounge has a view overlooking San Francisco.</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p><em>The library reading room near the lab cafe is a quiet and attractive place to work</em></p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p><em>The UC Botanical Garden Redwood Grove is a 5-minute walk from our offices.</em></p></figcaption></figure>
