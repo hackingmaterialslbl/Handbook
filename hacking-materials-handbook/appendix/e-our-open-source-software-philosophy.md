@@ -4,7 +4,7 @@ description: >-
   Attributed to an African proverb
 ---
 
-# E: Our open source software philosophy
+# Why open source
 
 Although we develop both open and closed source pieces of code in our group, we try our best to release any software that is potentially useful to more than one person as open source. This ends up being almost all the software that we write except perhaps code written to conduct a specific scientific analysis.&#x20;
 

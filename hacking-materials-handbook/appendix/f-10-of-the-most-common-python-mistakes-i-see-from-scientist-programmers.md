@@ -1,4 +1,4 @@
-# F: 10 of the most common Python mistakes I see from scientist-programmers
+# 10 of the most common Python mistakes I see from scientist-programmers
 
 There are many, many books and articles on writing better Python code. Please use those if you want to really desire to become a good programmer. Here, I am just focusing on some of the most basic things that I think are particularly relevant to the types of scientific programmers we get in the HackingMaterials group.
 

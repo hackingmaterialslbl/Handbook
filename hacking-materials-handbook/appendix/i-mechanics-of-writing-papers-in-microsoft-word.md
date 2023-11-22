@@ -1,4 +1,4 @@
-# I: Mechanics of writing papers in Microsoft Word
+# Mechanics of writing papers in Microsoft Word
 
 Many researchers gravitate to LaTeX because of poor experiences with Microsoft Word. With few exceptions, I’ve found the poor experiences to be due to either (i) not using a good template (journal templates are notoriously bad), (ii) lack of knowledge with using MS Word properly - e.g. to reference figure captions or add citations, or (iii) using a very outdated version of Word (i.e., prior to Word 2011).&#x20;
 

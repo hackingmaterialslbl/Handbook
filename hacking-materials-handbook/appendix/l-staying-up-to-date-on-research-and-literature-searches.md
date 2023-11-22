@@ -1,4 +1,4 @@
-# L: Staying up to date on research and literature searches
+# Staying up to date on research and literature searches
 
 The rate of publications keeps increasing every year, and it is now becoming difficult or impossible to keep pace with all the latest developments in any given field. Here are the main tools I use:
 

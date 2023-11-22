@@ -2,6 +2,7 @@
 
 Thank you for contributing to this handbook!
 
+* Hrushikesh Sahasrabuddhe - who also migrated this handbook from a Google Doc version to the current online Gitbook version
 * Saurabh Bajaj
 * Alireza Faghaninia
 * Joey Montoya

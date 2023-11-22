@@ -1,4 +1,4 @@
-# C: Setting up a new Macbook
+# Setting up a new Macbook
 
 ### Upgrade your OS&#x20;
 

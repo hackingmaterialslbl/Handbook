@@ -1,4 +1,4 @@
-# D: Some notes being productive with a Mac from Anubhav
+# Some notes being productive with a Mac from Anubhav
 
 ### **Basic setup**&#x20;
 
