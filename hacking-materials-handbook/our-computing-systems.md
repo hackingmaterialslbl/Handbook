@@ -1,4 +1,14 @@
-# A: NERSC
+# Our computing systems
+
+Our group’s main computing resources are:&#x20;
+
+* NERSC (the LBNL supercomputing center, one of the biggest in the world) – unfortunately, due to way NERSC is funded, only some projects are eligible to run on NERSC.
+* NREL Eagle – some projects that cannot use NERSC can run on the Eagle supercomputer
+* Lawrencium – we have a yearly allocation on this computer that can be used for any project, but usage needs to be coordinated amongst the different projects in the group. We can also pay-per-hour if needed or even purchase nodes on Lawrencium if needed.
+
+At any time, if you feel you are computing-limited, please contact Anubhav so he can work with you on finding solutions.
+
+## More details on NERSC
 
 To get started with calculations at NERSC:
 
@@ -17,6 +27,19 @@ To get started with calculations at NERSC:
 
     a. /global/common/software/m2439/
 9. You can also request a database for your project to be hosted on NERSC. Google “MongoDB on NERSC” for instructions.
-10. Visit the workshop on Spin
+10. If you are interested in hosting web sites at NERSC, visit the workshop on Spin
 
     [https://www.nersc.gov/users/training/events/](https://www.nersc.gov/users/training/events/)
+11. Jupyter notebooks are quickly becoming an indispensable tool for doing computational science. In some cases, you might want to (or need to) harness NERSC computing power inside of a jupyter notebook. To do this, you can use NERSC’s new Jupyterhub system at https://jupyter.nersc.gov/.
+
+## More details on Lawrencium
+
+To use Lawrencium resources, first apply for a new account by visiting this link
+
+[https://it.lbl.gov/resource/hpc/for-users/hpc-documentation/accounts/user-accounts/](https://it.lbl.gov/resource/hpc/for-users/hpc-documentation/accounts/user-accounts/)&#x20;
+
+and fill out the user agreement form here
+
+[https://sites.google.com/a/lbl.gov/high-performance-computing-services-group/useragreement](https://sites.google.com/a/lbl.gov/high-performance-computing-services-group/useragreement)
+
+and then send an email to hpcshelp@lbl.gov to request an account - make sure the email specifically requests access to the “lr\_matminer” condo. Once your account is ready and you are able to login, you can see the group softwares that are not available on Lawrencium by default here: /global/common/software/m2439/example\_config\_cori
