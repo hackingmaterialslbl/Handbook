@@ -13,6 +13,12 @@ Early on, I turned up my Trackpad speed all the way to the max. This means I can
 
 There are many options I set to make OS/X more oriented for power users. For example, my Finder window shows directory paths at the bottom, I have sidebar shortcuts to many important locations, I display hidden files, I have a shortcut to copy the path of the current Finder location to the clipboard, etc. There are many settings like these for various built-in OS/X apps, but unfortunately I don’t remember them all. Getting a good Finder setup is probably the most important.
 
+### A note on app purchases
+
+Many apps are available via our group's subscription to SetApp - contact Anubhav for details
+
+We also have a Grammarly subscription for proofreading
+
 ### Apps I use for programming
 
 * I use the PyCharm IDE. Things I like about PyCharm include:

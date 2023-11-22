@@ -29,3 +29,7 @@ Make time to explore some of its recreational activities in the Bay Area. Althou
 * Lake Tahoe - skiing in the winter, hiking/biking/cruises/tourism/casinos in summer
 * Visit Yosemite National Park&#x20;
 * Berkeley Art Studio - enroll in class for a term or visit a single workshop on ceramics, painting, photography and more
+
+
+
+You can also look for discounts through TicketsAtWork, see [https://benefits.lbl.gov/lab-provided-benefits/employee-discounts](https://benefits.lbl.gov/lab-provided-benefits/employee-discounts)
