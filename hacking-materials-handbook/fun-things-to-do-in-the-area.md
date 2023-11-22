@@ -8,7 +8,7 @@ Make time to explore some of its recreational activities in the Bay Area. Althou
 * Indian Rock park
 * Berkeley Rose Garden
 * “Off the Grid” food trucks
-* Elmwood shopping area or outdoor Emeryville mall ❏ Detour App - guided tours for locals through your phone
+* Elmwood shopping area or outdoor Emeryville mall&#x20;
 * Berkeley Jazz / Theater&#x20;
 * UC 50% off performing arts at Zellerbach Hall
 * Tilden State Park, e.g., Lake Anza trail
