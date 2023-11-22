@@ -1,11 +1,6 @@
 ---
 description: A guide to help you start your scientific adventures
-cover: .gitbook/assets/LBNL.jpg
-coverY: -19
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
