@@ -1,4 +1,4 @@
-# Science related
+# Science related resources
 
 ### Slack
 
