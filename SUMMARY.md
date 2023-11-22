@@ -25,7 +25,6 @@
     * [Professional skills: writing papers and presenting talks and posters](hacking-materials-handbook/resources-for-learning-new-topics/professional-skills-writing-papers-and-presenting-talks-and-posters.md)
   * [Eleven questions for self-assessment](hacking-materials-handbook/eleven-questions-for-self-assessment.md)
   * [Leaving the group](hacking-materials-handbook/leaving-the-group.md)
-  * [Group events](hacking-materials-handbook/group-events.md)
   * [Fun things to do in the area](hacking-materials-handbook/fun-things-to-do-in-the-area.md)
   * [Appendix](hacking-materials-handbook/appendix/README.md)
     * [A: Finding a place to live](hacking-materials-handbook/appendix/a-finding-a-place-to-live.md)
