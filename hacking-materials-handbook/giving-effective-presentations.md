@@ -1,4 +1,4 @@
-# G: Giving effective presentations
+# Giving effective presentations
 
 > "_I am a successful lecturer in physics for popular audiences. The real entertainment gimmick is the excitement, drama and mystery of the subject matter. People love to learn something, they are ‘entertained’ enormously by being allowed to understand a little bit of something they never understood before. One must have faith in the subject and people’s interest in it."_
 >
@@ -99,4 +99,6 @@ Here is a checklist you can use to improve and verify various aspects of your pr
 * Some techniques to help give better presentations are:&#x20;
   * add comparison points (e.g., 1 kilogram of this material can store enough energy to power a light bulb for 10 hours; or, the amount of computer time involved, if done on your laptop, would take 50 years)
   * use analogies, particularly when presenting to a non-specialist audience (i.e., the material soaks up lithium ions like a sponge)
+
+See also: [http://go.nature.com/2opiiQh](http://go.nature.com/2opiiQh) . It is illustrated by Jorge Cham from PhDComics and is packed with good advice.
 
