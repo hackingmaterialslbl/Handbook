@@ -5,11 +5,13 @@ description: >-
   Anubhav with their suggestions
 ---
 
-# A: Finding a place to live
+# Finding a place to live
 
 ### Temporary housing while finding a place to live
 
 You may consider finding temporary housing, e.g., through Airbnb, for a month or so while finding a more permanent place to live. It is easier to find housing while you are in Berkeley itself; however, depending on the cost of your temporary housing and moving costs, this strategy can be more expensive. Also please consider the risk that some listings for rent on some websites are fake. In summer there are many offers of sublease which are cheaper than regular offers and allow you to stay for a short period, you can find them in a Facebook community called UC Berkeley Off-Campus Housing.
+
+Another resource to try is [FurnishedFinder](https://www.furnishedfinder.com/?gad\_source=1\&gclid=Cj0KCQiAmNeqBhD4ARIsADsYfTe-mqvqQjCg4IRX5dgumOL-el4rSGdiE1Vi3BoHVyW7RoddBHOGUa0aAj5REALw\_wcB) – you can rent rooms or small sections of people's homes for a short amount of time (and usually less money) with furniture and utilities included.
 
 ### Resources for finding housing
 
@@ -28,10 +30,10 @@ You can join the LBNL postdoc mailing list ([http://bit.ly/2nAHAXE](http://bit.l
 
 The Bay Area is a very nice place to live, which has the consequence of many people wanting housing here. Thus, one of the few problems with this area is the very high price and competition for housing. Some things you should be aware of:&#x20;
 
-* prices in the $2000/month range for a very basic apartment are normal - and can easily go up from there. You can also check your official rent ceiling at: [https://www.cityofberkeley.info/RentBoardUnitSearch.aspx](https://www.cityofberkeley.info/RentBoardUnitSearch.aspx)
+* prices in the $2500/month range for a very basic apartment are normal - and can easily go up from there. You can also check your official rent ceiling at: [https://www.cityofberkeley.info/RentBoardUnitSearch.aspx](https://www.cityofberkeley.info/RentBoardUnitSearch.aspx)
 * buildings tend to be older, and amenities like dishwashers and heating/cooling are hard to find unless you pay premium prices.
 * it is normal to have a lot of competition for a place such that you must agree to a lease on the spot or risk losing out. Examples:&#x20;
-  * Anubhav thought he had finalized a place to live for his first year in the North Berkeley area, but during the final signing period another bidder put in an offer for $300/month greater and he thus lost the place.
+  * Anubhav thought he had finalized a place to live for his first year in the North Berkeley area, but during the final signing period another bidder put in an offer for that was 10% greater than the asking price and he thus lost the place.
   * One postdoc in the group thought he had finalized a deal for a place to rent but was late to an appointment to meet with the owner and ended up losing the offer on the spot.&#x20;
 
 You might not expect these kinds of situations unless you are from a similar area like NYC, so please be aware of them.

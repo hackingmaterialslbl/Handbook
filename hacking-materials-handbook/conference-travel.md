@@ -74,3 +74,15 @@ In terms of travel receipts and reimbursement:
     * Deposits and cancellation fees are non-reimbursable
     * Damage to the property is the responsibility of the traveler(s)
   * Please note, the Laboratory will not prepay or authorize a pre-payment expense report for non-commercial lodging.
+
+## Poster printing
+
+To have a poster printed, send an email to John Rhodin (PA Creative) at [JHRhodin@lbl.gov](mailto:JHRhodin@lbl.gov) and Anubhav. Include:
+
+* your poster (preferably as PDF)
+* required dimensions
+* project id (given to you by Anubhav)
+
+There should be at least a 48 hour (and ideally 3 day+) lead time to ensure a good rate on the poster. Under 48 hour turnaround is possible, but costs the project more. You’ll get an email from John about where to pick it up when it’s ready.
+
+It is also possible to get the poster printed at a commercial service but you’ll need to pay in advance and fill out some paperwork for reimbursement.
