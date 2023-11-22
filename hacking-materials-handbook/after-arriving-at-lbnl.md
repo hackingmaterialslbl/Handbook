@@ -9,6 +9,8 @@ Here is a checklist of things you should complete within your first week:
 * **Set up your computer.** See Appendix documentation on how to do this and some recommended software to install.&#x20;
 * **Request to be added to the group email list.** Anubhav can add you to hackmat@lists.lbl.gov
 * **Complete the checklist that HR gives you in your welcome package.** Note: postdocs cannot select retirement plans; an obligatory UCRS DCP is deducted from your pre-tax salary each month but the money belongs to you.&#x20;
+* **Work with an "onboarder" in the group to check off necessary items.** See more information [here](https://onboarding.lbl.gov/im-an-onboarder).
+* **Review the "Resources" on the Berkeley Lab onboarding web site.** It can be found [here](https://onboarding.lbl.gov/resources).
 * **Complete all LBNL training courses.**&#x20;
 * **Set up the employee wifi.** Note that the visitor wifi is open access. To connect to employee wifi, go to [https://software.lbl.gov/](https://software.lbl.gov/), search for “Wireless Networking”, and follow the instructions.
 * **Request access to the group’s Google Drive folder.** There are many additional resources there.
