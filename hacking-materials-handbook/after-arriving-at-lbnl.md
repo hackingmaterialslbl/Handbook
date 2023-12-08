@@ -19,7 +19,12 @@ Here is a checklist of things you should complete within your first week:
 * **Obtain a license for any software packages you might be using.** For example, you may need to be added to the VASP users list.
 * **Schedule a 30-minute biweekly meeting time with Anubhav.** Ask about any other meetings.&#x20;
 * **Set up the printer (optional).** There are wireless printers on the first floor of building 33 near the kitchen. The IP address of the printers are indicated on the printer, which allow you to connect to them via wireless.
-* **Request after-hours access.** By default, may not have off-hours site access to building 33, i.e., on weekends, holidays, and from \~6pm to 7am on weekdays. To obtain off-hours site access, email the ESDR admin (esdradmin@lbl.gov), tell them you need after-hours building access, and cc Anubhav.
+* **Request after-hours access.** By default, may not have off-hours site access to building 33, i.e., on weekends, holidays, and from \~8pm to 7am on weekdays. To obtain off-hours site access:
+  1. Go to access.lbl.gov
+  2. Click on "Area Request" at the top of the Dashboard
+  3. In the search bar, type 33 and select "33-Perimeter", (not 33-perimeter M-F 8A-5P) which you likely already have
+  4. Then click the "ADD" button on the right, and the "DONE" button at the top.
+  5. Do step 2 - 4 for any other buildings may need access to.
 * **Ask to read the proposal that funds your work.** This will help explain the impact of your project, the long-term plans and goals, and how your project fits in with other efforts.&#x20;
 * **Have your picture taken for the group website.** Coordinate a time with Anubhav, who will take the picture.&#x20;
 * **Familiarize yourself with the lab's A-Z site.** The site is [here](https://a-z.lbl.gov) and has answers to most procedure questions; for example start typing "conference room" to find out about conference rooms.
