@@ -18,6 +18,7 @@
   * [Information for graduate students](hacking-materials-handbook/information-for-graduate-students.md)
   * [Giving effective presentations](hacking-materials-handbook/giving-effective-presentations.md)
   * [Writing effective papers](hacking-materials-handbook/writing-effective-papers.md)
+  * [Guidelines for Paper Submission to Scientific Journals](hacking-materials-handbook/guidelines-for-paper-submission-to-scientific-journals.md)
   * [Fun things to do in the area](hacking-materials-handbook/fun-things-to-do-in-the-area.md)
   * [Leaving the group](hacking-materials-handbook/leaving-the-group.md)
   * [Thank you!](hacking-materials-handbook/thank-you.md)
