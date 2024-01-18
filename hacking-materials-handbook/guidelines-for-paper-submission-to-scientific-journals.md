@@ -25,6 +25,4 @@ As part of our commitment to disseminating our research effectively, it is impor
 8. **Plan for Rejection or Resubmission**:
    * In case of rejection, be prepared to consider the feedback received and resubmit to another suitable journal. Rejection is a normal part of the publication process and can be used constructively to improve the paper.
 
-#### Conclusion
-
 Following these guidelines will help streamline the publication process and enhance the visibility and impact of your research. Remember, the journey of a manuscript from writing to publication is as important as the research itself and requires careful planning and attention to detail.
