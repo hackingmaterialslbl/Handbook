@@ -45,6 +45,10 @@ Instead of “Figure 1 shows”, try one of the following:&#x20;
 
 Typically, such refinements would come at a later stage of the manuscript and is not something to worry about in the first draft - although if you write often enough, you’ll gain the ability to use more specific verbs in earlier drafts.
 
+#### Be exciting!
+
+Scientific papers do not have to be a snoozefest. Often, I see scientific writing that is just a collection of facts rather than a (complex) narrative supported by facts. The path through the facts should be well-organized and exciting, such that the reader wants to keep reading. In fact, the only portion of a scientific paper in which you are truly allowed to be boring is the methods section. For all other sections, think about the narrative structure of the paper!
+
 ### Methods section&#x20;
 
 #### DFT based&#x20;
