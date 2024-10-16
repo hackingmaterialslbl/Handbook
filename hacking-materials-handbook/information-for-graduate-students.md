@@ -1,4 +1,4 @@
-# N: How to do well as a graduate student
+# Information for graduate students
 
 A lot of MSE graduate student specific information would be covered by either the MSE department (e.g., the Graduate Student Handbook, which is updated every few months) or the Graduate Student Council (MSE GSC). However, you might want to ask the group members on how they actually managed to do things. If this is the case, feel free to contact graduate students in the group! Aside from specific Q/A, there are some general guidelines (compiled from Anubhav, alumni, and current students) which can help you do better as a graduate student.
 
@@ -108,9 +108,11 @@ A. Yes. Here’s some examples. Examiner: “Have you considered using instead o
 
 A. File your paperwork early. Alex filed his paperwork (literally) 3 minutes before the exam and that was almost a catastrophic mistake. Also, relax! If you are well prepared, you truly have nothing to worry about. The examiners are mostly trying to help you, and they want to see you succeed. A lot of their advice may be useful for your research project.
 
+### Dissertation and Filing Fee Status
+
+During your final term in the group, if you are simply writing your thesis, you may be on "filing fee" status rather than on GSRA (graduate student research assistant status). In such a status, the group no longer needs to pay your tuition and you will still be paid a salary.  However, you may be responsible for paying the fees associated with health care & various UC fees. Contact Anubhav for more about this status.
 
 
-### Dissertation&#x20;
 
 To be filled in!&#x20;
 
