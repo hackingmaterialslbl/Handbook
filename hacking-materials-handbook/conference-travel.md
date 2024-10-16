@@ -14,6 +14,10 @@ You should identify conferences you’d like to attend several months (usually \
 
 More about a specific conference (Gordon Research Conference) in this video from Anubhav: [https://youtu.be/dTlmBBG0qls?si=vAkDJvsBD2-uE1pf](https://youtu.be/dTlmBBG0qls?si=vAkDJvsBD2-uE1pf)
 
+## Important for GSRAs! UC Berkeley travel grants
+
+If you are a GSRA, you can apply for up to 2 travel grants to support conference travel. Please supplement your LBL travel funding by applying for the conference grants: [https://grad.berkeley.edu/resource/conference-travel-grants/](https://grad.berkeley.edu/resource/conference-travel-grants/)
+
 ## Coordinating conference travel
 
 Once you have identified a conference you’d like to attend, please take the following actions:&#x20;
