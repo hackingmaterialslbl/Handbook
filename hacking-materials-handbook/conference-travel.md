@@ -12,6 +12,8 @@ It is important to be connected to the research community. Thus, our group has a
 
 You should identify conferences you’d like to attend several months (usually \~4 months, perhaps \~6 months for international travel) in advance. Usually, this is around the same time that abstract deadlines are due.
 
+More about a specific conference (Gordon Research Conference) in this video from Anubhav: [https://youtu.be/dTlmBBG0qls?si=vAkDJvsBD2-uE1pf](https://youtu.be/dTlmBBG0qls?si=vAkDJvsBD2-uE1pf)
+
 ## Coordinating conference travel
 
 Once you have identified a conference you’d like to attend, please take the following actions:&#x20;
