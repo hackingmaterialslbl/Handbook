@@ -102,3 +102,7 @@ Here is a checklist you can use to improve and verify various aspects of your pr
 
 See also: [http://go.nature.com/2opiiQh](http://go.nature.com/2opiiQh) . It is illustrated by Jorge Cham from PhDComics and is packed with good advice.
 
+
+
+More about creating good figures for presentations in a video from Anubhav: [https://youtu.be/MazT8kT43PQ?si=IR5IYb8rLV2GYpN1](https://youtu.be/MazT8kT43PQ?si=IR5IYb8rLV2GYpN1)
+
