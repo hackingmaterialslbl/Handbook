@@ -4,6 +4,13 @@ Here are some miscellaneous tips for writing papers. There also some good tips i
 
 _https://serialmentor.com/blog/2013/8/29/writing-a-scientific-pap er-in-four-easy-steps_
 
+
+
+More about our group's process for writing a paper in a video from Anubhav:\
+[https://youtu.be/7EEi3Vxvyk4?si=HuTAipL1eUM\_xq](https://youtu.be/7EEi3Vxvyk4?si=HuTAipL1eUM\_xqie)
+
+More about creating good figures for presentations in a video from Anubhav: [https://youtu.be/MazT8kT43PQ?si=IR5IYb8rLV2GYpN1](https://youtu.be/MazT8kT43PQ?si=IR5IYb8rLV2GYpN1)
+
 ### Overall process of writing a paper
 
 Anubhav has noticed that while some students and postdocs seem to have no problem writing a paper, others struggle very much with the overall process. He thus now has a 4-step procedure for papers; in each step, the group member fills out an online form with relevant information. The first step / first online form is very quick and mostly about brainstorming the paper's purpose, audience, main messages, and co-authors. The last step / last online form is essentially to have a completed paper draft. The intermediate steps gradually build up the ingredients of the paper. Anubhav will usually start you with the forms once you start to get the results needed for a paper.
