@@ -13,7 +13,7 @@ Otherwise, you should generally follow the sequence of steps below.&#x20;
 * Check for the answer in this handbook
 * Check for the answer in LBL's [A-Z index](https://a-z.lbl.gov).
 * Is it a human resources issue? If so, you can contact our area's HR team at etahr@lbl.gov . If you are a GSRA and this is a campus issue, you can contact the campus human resources.
-* Is it an LBNL or division procedure issue? If so, contact our division team at esdradmin@lbl.gov.
+* Is it an LBNL or division procedure issue? If so, contact our division team at etsadmin@lbl.gov.
 * Is it something that your colleagues might know the answer to (e.g., more senior graduate students or postdocs)? If so, ask them or post the question on the Slack group. Note that sometimes, procedures can be different for various divisions.
 * .If you really are unable to solve the problem after all that, email Anubhav for help.
 
