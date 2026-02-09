@@ -44,7 +44,7 @@ Once you have received approval to attend the conference (**and only after recei
 
 In terms of travel receipts and reimbursement:
 
-* If you need **early** reimbursement, please send an email to esdradmin@lbl.gov to see if you can get registration costs, etc. reimbursed early. Note that this is not the normal procedure but if you have a need, it should be possible to have this arranged.
+* If you need **early** reimbursement, please send an email to etsadmin@lbl.gov to see if you can get registration costs, etc. reimbursed early. Note that this is not the normal procedure but if you have a need, it should be possible to have this arranged.
 * If you are traveling with funding through LBNL (i.e., most cases), you do **not** need to save receipts for meals. You will receive a per diem instead. You also do not need receipts for taxi rides under $75, although Anubhav usually submits them anyway when he has them. You also do not need to save your actual airplane tickets for lab-purchased airfare.
 * If you are traveling with outside funding (e.g., the conference organizers are going to reimburse you), save all receipts and tickets as they may be needed for reimbursement. The lab may also need these even if others are paying.
 * The proper way to request reimbursements for trips within the US is through the [etsadmin](https://sites.google.com/lbl.gov/etsintranet) site’s “Travel:Domestic” tab. If you have trouble, you can email etsadmin@lbl.gov.
