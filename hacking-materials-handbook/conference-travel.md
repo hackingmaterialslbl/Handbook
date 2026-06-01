@@ -14,6 +14,8 @@ You should identify conferences you’d like to attend several months (usually \
 
 More about a specific conference (Gordon Research Conference) in this video from Anubhav: [https://youtu.be/dTlmBBG0qls?si=vAkDJvsBD2-uE1pf](https://youtu.be/dTlmBBG0qls?si=vAkDJvsBD2-uE1pf)
 
+Our group typically attends the broader Fall MRS, Spring MRS, and APS March meetings, topic-specific GRS and GRC sessions, and project-specific events. Other conferences like ACS, TMS, and others are also encouraged, as long as they fit with your research.
+
 ## Important for GSRAs! UC Berkeley travel grants
 
 Graduate students can apply for [Conference Travel Grant funding](https://grad.berkeley.edu/resource/conference-travel-grants/) to attend professional conferences or to participate in professional development activities. Each student can apply for the funding twice in their whole study program. For professional conferences, grant amounts will depend on the location of the conference (up to $600 within California, $900 elsewhere in North America, including Canada and Mexico, and $1,500 outside of North America). The amounts provided for professional development support will vary depending on the actual costs, but in no case will a grant exceed $1,500. If you are traveling to a conference, please discuss applying for these funds with Anubhav.
@@ -37,8 +39,9 @@ Once you have received approval to attend the conference (**and only after recei
 
 * Make sure you register for the conference in time to receive any early registration discount (normally on one’s own credit card then reimbursed later, but contact Anubhav if it poses a problem)
 * Book a hotel (normally on one’s own credit card then reimbursed later, but again contact Anubhav if it poses a problem). Note that the costs to the hotel need to be reasonable for the city you are staying ; if it is the official conference hotel, that is usually fine.
-* Book a flight - please do this early to avoid last-minute flight rate spikes. For help with this step, use the “Local travel request”, “domestic travel request” or “foreign travel request” on the etsadmin web site: [http://bit.ly/2vGGWe9](http://bit.ly/2vGGWe9) . You can also book in coordination with Brandi Thompson with LBNL making the booking. This works better if you identify desired flights in advance, otherwise give Brandi the preferred dates and times. **Booking your own flights is NOT recommended, please contact Anubhav if you think there is a reason to book your own flight.**
+* Book a flight - please do this early to avoid last-minute flight rate spikes. For help with this step, use the “Local travel request”, “domestic travel request” or “foreign travel request” on the etsadmin web site: [http://bit.ly/2vGGWe9](http://bit.ly/2vGGWe9) . You can also book in coordination with Brandi Thompson (bthompson@lbl.gov) or Kings Ogbeni (KingsOG@lbl.gov) with LBNL making the booking. This works better if you identify desired flights in advance, otherwise give Brandi the preferred dates and times. **Booking your own flights is NOT recommended, please contact Anubhav if you think there is a reason to book your own flight.**
 * If you are planning to combine vacation and travel, make sure to not exceed the amount of personal days allowed by DOE. Note that days spent traveling to and from the conference count as work days.
+* Be sure not to exceed your approved TREX amount.
 
 ## Reimbursement
 
