@@ -1,12 +1,14 @@
 # Facilities - Food, Conference Rooms
 
-## Food and coffee
+## Water, food and coffee
 
 In the past, the lab had a dedicated cafeteria with a coffee shop. However, things are currently in flux as the cafeteria is completely closed for renovations.
 
 The latest information regarding food and coffee are listed at [here](https://food.lbl.gov).
 
-Within the building, there are vending machines scattered throughout. The research group of Kristin Persson has a coffee machine, send a message to the Slack group if you are interested.
+Within the building, there are vending machines scattered throughout. Our group has a coffee machine, and the group members typically purchase the coffee powder. Contact Hrushikesh or Zekun to get started with using the coffee machine.
+
+Group members typically bring their own water, either as pre-filled bottles or packaged drinking water. Please DO NOT drink the tap water in B33: one group member fell seriously ill after drinking it.
 
 ## Conference rooms
 
