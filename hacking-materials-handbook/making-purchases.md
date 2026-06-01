@@ -11,7 +11,7 @@ There are also a couple of important things to know about purchases that may be 
 
 The procedure for making purchases depends on the purchase type:&#x20;
 
-* **Software:** Many popular commercial software libraries (e.g., Microsoft Office) can be purchased through the lab's [software portal](https://software.lbl.gov). At check out, the approver for the purchase is Amapola Comayas.&#x20;
+* **Software:** Many popular commercial software libraries (e.g., Microsoft Office) can be purchased through the lab's [software portal](https://software.lbl.gov). At check out, the approver for the purchase is Amapola Comayas or Tracy Lin Hou, depending on the specific project funds. Please check with Anubhav to find out who the approver is for your project.
 * **Office supplies, computer accessories:** Check the LBNL’s Ebuy (not Ebay) first via the lab's [Procurement site](https://procurement.lbl.gov). If the item or an equivalent is available, this is the easiest way to make the purchase (for both you and LBNL administration). At check out, the approver for the purchase is Amapola Comayas. Otherwise, see below.&#x20;
 * **Books:** First check if the book is available on Ebuy (see above) - this is the simplest purchase option. If it’s not available on Ebuy or it is much more expensive on Ebuy than from another seller, follow the instructions below for “other purchases”.&#x20;
 * **Other purchases:** For other purchases, please review fill out the purchase request form on the [ETS Admin & Operations](https://sites.google.com/lbl.gov/etsintranet) web site.
