@@ -17,7 +17,10 @@ Here is a checklist of things you should complete within your first week:
 * **Install VPN for connecting to the lab network from home.** For example, this lets you download research articles from home. See https://software.lbl.gov for instructions on installation.&#x20;
 * **Obtain user accounts for any computing resources you may be using.** See documentation later in this handbook.&#x20;
 * **Obtain a license for any software packages you might be using.** For example, you may need to be added to the VASP users list.
-* Get added to the group's ChatGPT, Claude, GitKraken subscription. Hrushikesh can help you with these.
+* **Get added to the group's email list.** Hrushikesh can help you with this.
+* **Get added to the group's ChatGPT, Claude, GitKraken subscription.** Hrushikesh can help you with these.
+* I**nstall VSCode and useful plugins to boost your productivity.** Zekun, Baojie or Hrushikesh can advise on which plugins matter most.
+* If your research needs **Claude API access**, contact Zekun to be added to the group's Claude Code API subscription.
 * **Schedule a 30-minute biweekly meeting time with Anubhav.** Ask about any other meetings.&#x20;
 * **Set up the printer (optional).** There are wireless printers on the first floor of building 33 near the kitchen. The IP address of the printers are indicated on the printer, which allow you to connect to them via wireless.
 * **Request after-hours access.** By default, may not have off-hours site access to building 33, i.e., on weekends, holidays, and from \~8pm to 7am on weekdays. To obtain off-hours site access:
