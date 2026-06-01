@@ -91,4 +91,6 @@ To have a poster printed, send an email to John Rhodin (PA Creative) at [JHRhodi
 
 There should be at least a 48 hour (and ideally 3 day+) lead time to ensure a good rate on the poster. Under 48 hour turnaround is possible, but costs the project more. You’ll get an email from John about where to pick it up when it’s ready.
 
-It is also possible to get the poster printed at a commercial service but you’ll need to pay in advance and fill out some paperwork for reimbursement.
+It is also possible to get the poster printed at a commercial service but you’ll need to pay in advance and fill out some paperwork for reimbursement.\
+\
+You can also print the poster at a FedEx location near your conference. This avoids carrying it on the flight and saves you the oversize-baggage fee one way.
