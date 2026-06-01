@@ -108,6 +108,10 @@ A. Yes. Here’s some examples. Examiner: “Have you considered using instead o
 
 A. File your paperwork early. Alex filed his paperwork (literally) 3 minutes before the exam and that was almost a catastrophic mistake. Also, relax! If you are well prepared, you truly have nothing to worry about. The examiners are mostly trying to help you, and they want to see you succeed. A lot of their advice may be useful for your research project.
 
+#### Q. **Where can I find examples?**&#x20;
+
+A. Ask Anubhav for presentations and written proposals from former grad students; they're a useful reference for both format and content.
+
 ### Dissertation and Filing Fee Status
 
 During your final term in the group, if you are simply writing your thesis, you may be on "filing fee" status rather than on GSRA (graduate student research assistant status). In such a status, the group no longer needs to pay your tuition and you will still be paid a salary.  However, you may be responsible for paying the fees associated with health care & various UC fees. Contact Anubhav for more about this status.
