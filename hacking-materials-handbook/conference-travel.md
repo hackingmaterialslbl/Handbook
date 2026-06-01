@@ -38,8 +38,9 @@ Note that there is usually a two-step process to approval. The first step is “
 Once you have received approval to attend the conference (**and only after receiving both approvals**), please take the following steps:
 
 * Make sure you register for the conference in time to receive any early registration discount (normally on one’s own credit card then reimbursed later, but contact Anubhav if it poses a problem)
-* Book a hotel (normally on one’s own credit card then reimbursed later, but again contact Anubhav if it poses a problem). Note that the costs to the hotel need to be reasonable for the city you are staying ; if it is the official conference hotel, that is usually fine.
-* Book a flight - please do this early to avoid last-minute flight rate spikes. For help with this step, use the “Local travel request”, “domestic travel request” or “foreign travel request” on the etsadmin web site: [http://bit.ly/2vGGWe9](http://bit.ly/2vGGWe9) . You can also book in coordination with Brandi Thompson (bthompson@lbl.gov) or Kings Ogbeni (KingsOG@lbl.gov) with LBNL making the booking. This works better if you identify desired flights in advance, otherwise give Brandi the preferred dates and times. **Booking your own flights is NOT recommended, please contact Anubhav if you think there is a reason to book your own flight.**
+* Book a flight and hotel online via RezDesk, or with support from an ADTRAV agent (833-865-7794). Unless your trip is multi-leg, you should be able to book the travel yourself directly through RezDesk. See below for more details:
+  * Book a hotel (normally on one’s own credit card then reimbursed later, but again contact Anubhav if it poses a problem). Note that the costs to the hotel need to be reasonable for the city you are staying ; if it is the official conference hotel, that is usually fine. Note that when you book hotel via RezDesk, it will automatically tell you which hotels are out of budget, and you would typically wont be able to book these.&#x20;
+  * Book a flight - please do this early to avoid last-minute flight rate spikes. For help with this step, use the “Local travel request”, “domestic travel request” or “foreign travel request” on the etsadmin web site: [http://bit.ly/2vGGWe9](http://bit.ly/2vGGWe9) . You can also book in coordination with Brandi Thompson (bthompson@lbl.gov) or Kings Ogbeni (KingsOG@lbl.gov) with LBNL making the booking. This works better if you identify desired flights in advance, otherwise give Brandi the preferred dates and times. **Booking your own flights is NOT recommended, please contact Anubhav if you think there is a reason to book your own flight.** Note that when you book hotel via RezDesk, it will automatically tell you which hotels are out of budget, and you would typically wont be able to book these.&#x20;
 * If you are planning to combine vacation and travel, make sure to not exceed the amount of personal days allowed by DOE. Note that days spent traveling to and from the conference count as work days.
 * Be sure not to exceed your approved TREX amount.
 
@@ -58,7 +59,7 @@ In terms of travel receipts and reimbursement:
     * registration costs
     * hotel costs
     * baggage fees
-    * Uber / taxi fare
+    * Uber / Lyft / taxi fare
     * rental car
     * any last-minute poster printing
     * flights (only if you booked yourself)
