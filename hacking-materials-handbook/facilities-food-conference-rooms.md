@@ -8,7 +8,7 @@ The latest information regarding food and coffee are listed at [here](https://fo
 
 Within the building, there are vending machines scattered throughout. Our group has a coffee machine, and the group members typically purchase the coffee powder. Contact Hrushikesh or Zekun to get started with using the coffee machine.
 
-Group members typically bring their own water, either as pre-filled bottles or packaged drinking water. Please **DO NOT** drink the tap water in B33: one group member fell seriously ill after drinking it.
+Group members typically bring their own water, either as pre-filled bottles or packaged drinking water. If you do want to drink the tap water in B33, please make sure it is safe first by running water quality checks, as one group member previously fell seriously ill after drinking it. Philothei can help you with the water quality checks.
 
 ## Conference rooms
 
