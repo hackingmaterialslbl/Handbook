@@ -48,7 +48,7 @@ Our group has a set of base codebases used for performing high-throughput calcul
 
 An IDE allows you to be a much more productive coder. It is like a text editor but contains many useful keyboard shortcuts, code-completion tools, refactoring tools, and debugging/profiling tools to help you be more productive. It can also automatically reformat your code to trim line lengths and add proper whitespace to be in-line with recommended Python formatting guidelines.
 
-Anubhav uses Cursor, and some group members also use VSCode. Get it touch with Anubhav to know which IDE is best for you!&#x20;
+Anubhav uses Cursor, and some group members also use VSCode. Get in touch with Anubhav to figure out which IDE is best for you!
 
 ### Other things to do&#x20;
 
