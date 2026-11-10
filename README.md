@@ -15,6 +15,8 @@ layout:
 
 # Hacking Materials handbook
 
+**This handbook has moved to** [**https://hackingmaterials.lbl.gov/handbook/**](https://hackingmaterials.lbl.gov/handbook/)**. This copy is no longer updated.**
+
 <figure><img src=".gitbook/assets/new_logo_LB_AJ (1).png" alt=""><figcaption></figcaption></figure>
 
 [hackingmaterials.lbl.gov](./#\_toc\_250023-1)
